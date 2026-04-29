@@ -29,3 +29,32 @@ The goal of this project is to understand how IT support workflows work in pract
 - How automation connects Microsoft tools  
 - Basic workflow logic and process thinking  
 - How to structure IT support processes
+
+## Screenshots
+
+### 📝 Microsoft Forms
+User submits a new IT support request.
+![Forms Ticket Form](screenshots/forms-ticket-form.png)
+
+### 📂 SharePoint list
+All tickets are stored and tracked here.
+![SharePoint Tickets](screenshots/sharepoint-ticket-list.png)
+
+### 🔄 Power Automate flow
+Automation logic that processes and routes tickets.
+![Power Automate Ticket Flow](screenshots/power-automate-ticket-flow.png)
+
+### 🔄 Power Automate – Switch routing logic
+This flow uses a Switch condition to route tickets to the correct department:
+- 🖥 Hardware  
+- 💻 Software  
+- 🔐 Access Management  
+![Switch Routing](screenshots/power-automate-switch-routing.png)
+
+### 📧 Email confirmation
+Automatic email sent to user after ticket creation.
+![Email Confirmation](screenshots/email-confirmation-user.png)
+
+Automatic email sent to correct department after ticket creation.
+![Email Confirmation](screenshots/email-assigned-team.png)
+
