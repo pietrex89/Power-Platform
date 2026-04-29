@@ -2,8 +2,6 @@
 
 This folder contains simple Microsoft Power Platform projects.
 
----
-
 ## 🎯 What this is
 
 I use Microsoft tools like:
@@ -13,8 +11,6 @@ I use Microsoft tools like:
 
 to build simple workflows for IT support processes.
 
----
-
 ## 💡 What I learn here
 
 - how IT ticket systems work  
@@ -22,13 +18,9 @@ to build simple workflows for IT support processes.
 - how data moves between Microsoft tools  
 - basic workflow logic  
 
----
-
 ## 📁 Projects
 
 Each project shows a simple example of automation in practice.
-
----
 
 ## 🚀 Goal
 
